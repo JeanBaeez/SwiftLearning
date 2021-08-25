@@ -7,5 +7,7 @@
         <page name='Switch'/>
         <page name='Arreglos'/>
         <page name='Diccionario'/>
+        <page name='test'/>
+        <page name='Bucles'/>
     </pages>
 </playground>
